@@ -31,7 +31,7 @@ Version: *1.1.1*.
 sdsdsds
 ~~~
 
-<table>
+<table witdh="400">
 <tbody>
 <tr>
     <td>제목 </td>
