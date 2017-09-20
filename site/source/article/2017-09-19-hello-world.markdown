@@ -30,3 +30,20 @@ Version: *1.1.1*.
 ~~~
 sdsdsds
 ~~~
+
+<table width="100%" border="1" cellpadding="3"  cellspacing="0" bordercolor="#eeeeee">
+<tbody>
+<tr>
+    <td>제목 </td>
+    <td>설명 </td>
+</tr>
+<tr>
+    <td>Map input records </td>
+    <td>요소1</td>
+</tr>
+<tr>
+    <td>Map skipped records </td>
+    <td>요소2 </td>
+</tr>
+</tbody>
+</table>
