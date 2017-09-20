@@ -31,7 +31,7 @@ Version: *1.1.1*.
 sdsdsds
 ~~~
 
-<table width="100%" border="1" cellpadding="3"  cellspacing="0" bordercolor="#eeeeee">
+<table>
 <tbody>
 <tr>
     <td>제목 </td>
