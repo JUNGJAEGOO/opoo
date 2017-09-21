@@ -15,11 +15,7 @@ Version: *1.1.1*.
 
 # 안녕하세요?
 
-
-|hi|hi|
-|--|--|
-|hi|hi|
-
+## 알파
 
 * hi
 * hi
@@ -27,11 +23,12 @@ Version: *1.1.1*.
 		* hi
 
 
+
 ~~~
 sdsdsds
 ~~~
 
-<table witdh="400">
+<table witdh="400" border="1">
 <tbody>
 <tr>
     <td>제목 </td>

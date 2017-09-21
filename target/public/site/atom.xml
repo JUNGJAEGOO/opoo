@@ -3,7 +3,7 @@
   <title><![CDATA[My OpooPress Blog]]></title>
   <link href="http://yourwebsite.com/atom.xml" rel="self"/>
   <link href="http://yourwebsite.com/"/>
-  <updated>2017-09-20T15:59:01+09:00</updated>
+  <updated>2017-09-20T16:05:52+09:00</updated>
   <id>http://yourwebsite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -34,7 +34,7 @@
 </li>
 </ul>
 <pre>sdsdsds
-</pre><table width="100%" border="1" cellpadding="3"  cellspacing="0" bordercolor="#eeeeee">
+</pre><table witdh="400">
 <tbody>
 <tr>
     <td>제목 </td>
